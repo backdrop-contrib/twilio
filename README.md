@@ -2,7 +2,7 @@ Twilio
  ======================
 
 The Twilio module provides integration with the Twilio cloud communication
-platform allowing for your Backdrop site to integrate Voice and SMS
+platform allowing your Backdrop site to integrate Voice and SMS
 functionality.
 
 The module currently provides the following functionality:
@@ -14,6 +14,7 @@ The module currently provides the following functionality:
 - User object phone number storage and validation 
 
 Project homepage: http://backdropcms.org/project/twilio 
+
 Twilio: https://www.twilio.com
 
 Installation 
